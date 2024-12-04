@@ -1,0 +1,14 @@
+C:\Users\nicud\Desktop\OOP\lab2\oop_lab2\oop_lab2\bin\Debug\net8.0\oop_lab2.exe
+C:\Users\nicud\Desktop\OOP\lab2\oop_lab2\oop_lab2\bin\Debug\net8.0\oop_lab2.deps.json
+C:\Users\nicud\Desktop\OOP\lab2\oop_lab2\oop_lab2\bin\Debug\net8.0\oop_lab2.runtimeconfig.json
+C:\Users\nicud\Desktop\OOP\lab2\oop_lab2\oop_lab2\bin\Debug\net8.0\oop_lab2.dll
+C:\Users\nicud\Desktop\OOP\lab2\oop_lab2\oop_lab2\bin\Debug\net8.0\oop_lab2.pdb
+C:\Users\nicud\Desktop\OOP\lab2\oop_lab2\oop_lab2\obj\Debug\net8.0\oop_lab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicud\Desktop\OOP\lab2\oop_lab2\oop_lab2\obj\Debug\net8.0\oop_lab2.AssemblyInfoInputs.cache
+C:\Users\nicud\Desktop\OOP\lab2\oop_lab2\oop_lab2\obj\Debug\net8.0\oop_lab2.AssemblyInfo.cs
+C:\Users\nicud\Desktop\OOP\lab2\oop_lab2\oop_lab2\obj\Debug\net8.0\oop_lab2.csproj.CoreCompileInputs.cache
+C:\Users\nicud\Desktop\OOP\lab2\oop_lab2\oop_lab2\obj\Debug\net8.0\oop_lab2.dll
+C:\Users\nicud\Desktop\OOP\lab2\oop_lab2\oop_lab2\obj\Debug\net8.0\refint\oop_lab2.dll
+C:\Users\nicud\Desktop\OOP\lab2\oop_lab2\oop_lab2\obj\Debug\net8.0\oop_lab2.pdb
+C:\Users\nicud\Desktop\OOP\lab2\oop_lab2\oop_lab2\obj\Debug\net8.0\oop_lab2.genruntimeconfig.cache
+C:\Users\nicud\Desktop\OOP\lab2\oop_lab2\oop_lab2\obj\Debug\net8.0\ref\oop_lab2.dll
