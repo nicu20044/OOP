@@ -84,3 +84,34 @@ The `IInteraction` interface defines methods that animals must implement for int
    
    ```csharp
    var ecosystem = new Ecosystem(10);
+
+2. **Add Entities:** Add plants and animals (e.g., herbivores, carnivores) to the ecosystem.
+
+3. **Simulate Steps:** Use SimulateStep() to simulate a step in the ecosystem, which triggers interactions and updates entity states.
+
+4. **Trigger Random Events:** Random events such as storms or predators spawning can be triggered to affect the ecosystem.
+
+5. **Display Ecosystem State:** View the current state of the ecosystem, including the names, positions, and energies of all entities.
+
+## Random Events
+Random events bring unpredictability to the ecosystem. The following events can occur:
+
+- Storm: Reduces the energy of all animals by 50%.
+- Drought: Reduces the energy of all plants by 50%.
+- Predator Spawn: Introduces a new carnivore into the ecosystem.
+These events are triggered via the TriggerRandomEvent() method and add dynamic challenges to the simulation.
+
+## Simulating Steps
+Each simulation step updates the ecosystem:
+
+- Animals: Animals perform actions like moving, eating, and reproducing.
+- Plants: Plants grow or reproduce when their energy allows.
+- Interactions: Animals interact based on their food preferences, e.g., herbivores eat plants, carnivores hunt animals.
+- Energy Management: Entities lose energy during the step. If energy reaches zero, they are removed from the ecosystem.
+- Reproduction: Animals and plants with sufficient energy reproduce, creating new entities.
+The simulation progresses by calling SimulateStep() repeatedly.
+
+##Display Ecosystem State
+To visualize the ecosystem, use the DisplayState() method. It prints the details of all entities, including their name, position, and energy.
+This feature allows users to monitor the ecosystem's dynamics as the simulation evolves.
+
