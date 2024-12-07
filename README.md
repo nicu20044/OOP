@@ -111,7 +111,7 @@ Each simulation step updates the ecosystem:
 - Reproduction: Animals and plants with sufficient energy reproduce, creating new entities.
 The simulation progresses by calling SimulateStep() repeatedly.
 
-##Display Ecosystem State
+## Display Ecosystem State
 To visualize the ecosystem, use the DisplayState() method. It prints the details of all entities, including their name, position, and energy.
 This feature allows users to monitor the ecosystem's dynamics as the simulation evolves.
 
